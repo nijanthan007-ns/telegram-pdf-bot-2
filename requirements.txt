@@ -1,4 +1,4 @@
 python-telegram-bot==20.3
 PyMuPDF==1.22.3
 requests
-googletrans==4.0.0-rc1
+deep-translator==1.11.4
